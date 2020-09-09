@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExstentionUtils</string>
+    <string name="no_activity_to_open_pdf">"    Nessuna App per aprire i PDF"</string>
+</resources>
